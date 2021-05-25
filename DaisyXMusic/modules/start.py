@@ -15,7 +15,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Updates", url="https://t.me/anie_news"
+                        "Updates", url="https://t.me/Denvil_bots"
                     ),
                     InlineKeyboardButton(
                         "Support", url="https://t.me/AnieRoSupport"
