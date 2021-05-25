@@ -521,7 +521,7 @@ async def play(_, message: Message):
                     InlineKeyboardButton("📖 Playlist", callback_data="playlist"),
                     InlineKeyboardButton("Menu ⏯ ", callback_data="menu"),
                 ],
-                [InlineKeyboardButton(text="music group join 🎬", url="https://t.me/MusicBotEnjoy_group")],
+                [InlineKeyboardButton(text="Music Updates🎬", url="https://t.me/denvil_bots")],
                 [InlineKeyboardButton(text="❌ Close", callback_data="cls")],
             ]
         )
